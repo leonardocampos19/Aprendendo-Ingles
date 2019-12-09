@@ -1,6 +1,6 @@
-# App1
+# Aprendendo Ingles
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+Projeto criado para estudo do Angular
 
 ## Development server
 
